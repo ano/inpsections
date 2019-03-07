@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ePort",
-    "currentPage": "index.html",
+    "currentPage": "Readme.md",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "noImageResize": "",
     "versionFirst": "4.5.4",
     "uniqCompNum": 7,
-    "versionPublish": "4.8.6",
+    "versionPublish": "4.9.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": []
